@@ -1,6 +1,6 @@
-It was created to practice react-testing-library and TypeScript.
+This project was created to practice react-testing-library and TypeScript.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
