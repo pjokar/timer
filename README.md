@@ -1,5 +1,8 @@
 This project was created to practice react-testing-library and TypeScript.
 
+It displays a simple timer with reset and start / stop buttons. 
+
+
 It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
